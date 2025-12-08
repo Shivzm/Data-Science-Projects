@@ -1,0 +1,16 @@
+[project]
+name = "data-science-project"
+version = "0.1.0"
+description = "Data Science Project using Pandas and Data Analysis"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=1.3.3",
+    "numpy>=1.21.2",
+    "matplotlib",
+    "scipy",
+    "seaborn",
+    "ipywidgets",
+    "tqdm",
+    "jupyter",
+    "ipykernel",
+]
